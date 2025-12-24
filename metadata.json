@@ -1,0 +1,8 @@
+{
+  "name": "GhostMail - Advanced Temp Mail Platform",
+  "description": "A high-performance temporary email platform that simulates incoming mail using AI to provide a realistic testing environment with multiple domains.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
